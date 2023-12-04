@@ -359,7 +359,7 @@ $(".button-solidC4").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">IT MAESTRO</p><p>[MBA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Rijesh (YEAR II - MCA) (+91 7483290526)</p><p id="rules">Rules: <br />             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">IT MAESTRO</p><p>[MBA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Rijesh (+91 7483290526)</p><p id="rules">Rules: <br />             </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
@@ -371,7 +371,7 @@ $(".button-solidC5").click(function() {
     Swal.fire({
         title: "Event Details",
 
-        html: '<div class="modalEventDetails"><p id="eventName">MIND MAZE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Saqib UR Rehaman (+91 7483290526)</p><p id="rules">Rules: <br /                   </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
+        html: '<div class="modalEventDetails"><p id="eventName">MIND MAZE</p><p>[MCA]</p><p id="date">Date: Day 1</p><p id="fee">Entry Fee: Rs 150/-</p><p id="location">Location: SDIT Building 2</p><p>Student Coordinator:<br>Mr. Saqib UR Rehaman (+91 7483290526)</p><p id="rules">Rules: <br />                   </p><a class="reglink" href="http://register.shreedevisambhram.com">Register</a></div>',
         showCloseButton: true,
         icon: "",
         showCancelButton: false,
